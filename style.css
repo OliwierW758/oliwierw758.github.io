@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	color: black;
+	max-width: 100%;
 }
 
 body {
@@ -19,7 +20,7 @@ body {
 	font-family: Verdana;
 	font-weight: bold;
 	text-shadow: 4px 4px #e39344;
-	border-bottom: 2px solid #e39344;
+	border-bottom: 2px solid black; /*#e39344*/
 }
 
 #art-list {
@@ -45,5 +46,25 @@ body {
 
 #art-list li h3 {
 	margin-bottom: 10px;
+	font-family: Verdana;
+}
+
+#menu_left {
+	float: left;
+	width: 15vw;
+	height: 500px;
+	border: 1px solid black;
+	background-color: #ffecdb;
+	margin-left: 30px;
+	margin-top: 30px;
+	padding: 20px;
+}
+
+#footer {
+	margin-top: 100px;
+	background-color: #ffad5c;
+	width: 100vw;
+	font-size: 15px;
+	padding: 3px 0 5px 0;
 	font-family: Verdana;
 }
