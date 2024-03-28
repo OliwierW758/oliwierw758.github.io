@@ -3,8 +3,11 @@
 	<head>
 		<title>Koty domowe</title>
 		<link rel = "stylesheet" href = "style.css">
+
+		<script type="text/javascript" src="content.js"></script>
+		<script type="text/javascript" src = "script.js"></script>
 	</head>
-	<body>
+	<body onload = "reload_articles()">
 	
 		<div id = "banner">Koty domowe</div>
 		
@@ -13,37 +16,7 @@
 		</div>
 
 		<ul id = "art-list">
-			<li>
-				<img src = "img/kot_europejski.png">
-				<h3 class = "title">Kot europejski krótkowłosy</h3>
-				<p>
-					Naturalna, stosunkowo niedawno uznana rasa kota. Uznanie rasy nastąpiło ze względu na konieczność ochrony pierwotnych genów kotów występujących od wieków na terenie Europy.
-				</p>	
-			</li>
-			
-			<li>
-				<img src = "img/kot_perski.png">
-				<h3 class = "title">Kot perski</h3>
-				<p>
-					Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku.
-				</p>	
-			</li>
-			
-			<li>
-				<img src = "img/kot_brytyjski.png">
-				<h3 class = "title">Kot brytyjski</h3>
-				<p>
-					Rasa kota, której początki wywodzą od kotów sprowadzonych na Wyspy Brytyjskie przez legiony rzymskie, wykorzystujące je do walki ze szczurami. Legendy tej nie udało się jednak udowodnić. Faktem jest, że rasa wywodzi się od kotów domowych zamieszkujących Wielką Brytanię (nie jest to jednak domowy kot "brytyjski"). Na skutek II wojny światowej istnienie tej rasy zostało zagrożone. W latach 50. XX wieku hodowcy, przy pomocy krzyżowania z persem niebieskim, wzmocnili populację i poprawili cechy rasy. 
-				</p>	
-			</li>
-			
-			<li>
-				<img src = "img/maine_coon.png">
-				<h3 class = "title">Maine coon</h3>
-				<p>
-					Rasa kota pochodząca z Ameryki Północnej. Koty rasy maine coon wyróżnia wielkość (są jednymi z największych kotów domowych), inteligencja i żywiołowość. 
-				</p>	
-			</li>
+			<!--javascript entries-->
 		</ul>
 
 		<div id = "footer">

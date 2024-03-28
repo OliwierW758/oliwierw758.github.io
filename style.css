@@ -34,7 +34,7 @@ body {
 	margin-top: 30px;
 	border: 1px solid black; /*#de5500*/
 	background-color: #ffecdb;
-	height: calc(20vh + 20px);
+	min-height: calc(20vh + 20px);
 }
 
 #art-list li img {
@@ -42,6 +42,7 @@ body {
 	height: 20vh;
 	float: left;
 	margin-right: 20px;
+	margin-bottom: 10px;
 }
 
 #art-list li h3 {
