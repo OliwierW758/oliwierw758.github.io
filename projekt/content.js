@@ -21,6 +21,51 @@ var data =
             "image": "img/maine_coon.png",
             "title": "Maine coon",
             "description": "Rasa kota pochodząca z Ameryki Północnej. Koty rasy maine coon wyróżnia wielkość (są jednymi z największych kotów domowych), inteligencja i żywiołowość."
+        },
+
+
+
+
+        
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
+        },
+        {
+            "image": "img/kot_perski.png",
+            "title": "Kot perski",
+            "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku."
         }
     ]
 } 

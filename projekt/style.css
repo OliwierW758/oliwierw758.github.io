@@ -10,18 +10,24 @@ body {
 	background-size: 100px;
 }
 
+#content {
+	margin-top: 150px;
+}
+
 #banner {
 	background-color: #ffad5c;
 	padding-top: 10px;
 	padding-bottom: 20px;
+	padding-left: 20px;
 	width: 100vw;
-	text-align: center;
 	font-size: 40px;
 	font-family: Verdana;
 	font-weight: bold;
-	text-shadow: 4px 4px #e39344;
+	text-shadow: 4px 4px 2px #e39344;
 	border-bottom: 10px solid #e39344;
 	box-shadow: 0px 2px 10px;
+	position: fixed;
+	top: 0px;
 }
 
 #art-list {
@@ -45,6 +51,7 @@ body {
 	float: left;
 	margin-right: 20px;
 	margin-bottom: 10px;
+	box-shadow: 2px 2px 5px;
 }
 
 #art-list li h3 {
@@ -59,16 +66,16 @@ body {
 	background-color: #ffecdb;
 	border-bottom: 10px solid #edd8ca;
 	margin-left: 30px;
-	margin-top: 30px;
 	padding: 20px;
-	box-shadow: 0px 3px 5px;
+	box-shadow: 2px 2px 5px;
 }
 
 #footer {
-	margin-top: 100px;
+	margin-top: 150px;
 	background-color: #ffad5c;
 	width: 100vw;
-	font-size: 15px;
+	font-size: 10px;
 	padding: 3px 0 5px 0;
 	font-family: Verdana;
+	white-space: pre;
 }
