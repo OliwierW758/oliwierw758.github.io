@@ -9,10 +9,22 @@ var data_file =
             "category": "koty"
         },
         {
+            "image": "img/owczarek_niemiecki.png",
+            "title": "Owczarek niemiecki",
+            "description": "Jedna z ras psów należąca do grupy psów pasterskich sklasyfikowana do sekcji psów pasterskich (owczarskich). Według klasyfikacji FCI podlega próbom pracy. Zaliczany do psów obronnych. Typ wilkowaty.",
+            "category": "psy"
+        },
+        {
             "image": "img/kot_perski.png",
             "title": "Kot perski",
             "description": "Stara rasa kota, zaliczana do grupy długowłosych. W Europie pojawiła się w XVII wieku.",
             "category": "koty"
+        },
+        {
+            "image": "img/yorkshire_terrier.png",
+            "title": "Yorkshire terrier",
+            "description": "Rasa psa należąca do grupy terierów, zaklasyfikowana do sekcji terierów miniaturowych.",
+            "category": "psy"
         },
         {
             "image": "img/kot_brytyjski.png",
@@ -26,24 +38,10 @@ var data_file =
             "description": "Rasa kota pochodząca z Ameryki Północnej. Koty rasy maine coon wyróżnia wielkość (są jednymi z największych kotów domowych), inteligencja i żywiołowość.",
             "category": "koty"
         },
-
-
-        {
-            "image": "img/owczarek_niemiecki.png",
-            "title": "Owczarek niemiecki",
-            "description": "Jedna z ras psów należąca do grupy psów pasterskich sklasyfikowana do sekcji psów pasterskich (owczarskich). Według klasyfikacji FCI podlega próbom pracy. Zaliczany do psów obronnych. Typ wilkowaty.",
-            "category": "psy"
-        },
         {
             "image": "img/labrador_retriever.png",
             "title": "Labrador retriever",
             "description": "Rasa psów należąca do grupy psów aportujących, płochaczy i psów wodnych, zaklasyfikowana do sekcji psów aportujących. Typ wyżłowaty. Podlega próbom pracy.",
-            "category": "psy"
-        },
-        {
-            "image": "img/yorkshire_terrier.png",
-            "title": "Yorkshire terrier",
-            "description": "Rasa psa należąca do grupy terierów, zaklasyfikowana do sekcji terierów miniaturowych.",
             "category": "psy"
         },
         {
