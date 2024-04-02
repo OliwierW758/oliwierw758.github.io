@@ -12,16 +12,11 @@ function reload_articles() {
 
     let selected_category = document.querySelector('input[name="option"]:checked').value;
 
-    console.log(selected_category);
-
     let data = JSON.parse(data_file);
 
     for(let article of data.articles) {
-        if(article.category = selected_category) {
 
-            console.log(article.title);
-            console.log(article.category);
-            
+        if(article.category == selected_category || selected_category == "wszystko") {
             add_article(article.image, article.title, article.description);
         }
     }
