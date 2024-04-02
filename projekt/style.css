@@ -69,6 +69,11 @@ body {
 	margin-left: 30px;
 	padding: 20px;
 	box-shadow: 2px 2px 5px;
+	font-family: Verdana;
+}
+
+#menu_left #radio {
+	margin-top: 10px;
 }
 
 #footer {

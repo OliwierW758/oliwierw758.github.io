@@ -14,7 +14,16 @@
 		<div id = "content">
 
 			<div id = "menu_left">
-				Test
+				<h3>Opcje wyświetlania</h3>
+
+				<div id = "radio">
+					<input type = "radio" name = "option" id = "wszystko" value = "wszystko" onchange = "reload_articles()"></input>
+    				<label for = "wszystko">Wszystko</label><br>
+					<input type = "radio" name = "option" id = "koty" value = "koty" onchange = "reload_articles()" checked></input>
+    				<label for = "wszystkie">Koty</label><br>
+					<input type = "radio" name = "option" id = "psy" value = "psy" onchange = "reload_articles()"></input>
+    				<label for = "wszystkie">Psy</label><br>
+				</div>
 			</div>
 
 			<ul id = "art-list">
